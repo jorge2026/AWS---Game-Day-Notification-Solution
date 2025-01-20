@@ -6,6 +6,7 @@ El proyecto demuestra principios de computación en la nube y mecanismos eficien
 
 Documentación: 
 PDF: https://www.linkedin.com/posts/jorgernies_procedimiento-del-sistema-de-notificaciones-activity-7287071058816348160-LlI4?utm_source=share&utm_medium=member_desktop
+
 API:https://sportsdata.io/
 
 

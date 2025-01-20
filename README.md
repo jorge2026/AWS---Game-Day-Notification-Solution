@@ -5,7 +5,7 @@ Utiliza Amazon SNS, AWS Lambda, Python, Amazon EventBridge y APIs de la NBA para
 El proyecto demuestra principios de computación en la nube y mecanismos eficientes de notificación.
 
 Documentación: 
-PDF: 
+PDF: https://www.linkedin.com/posts/jorgernies_procedimiento-del-sistema-de-notificaciones-activity-7287071058816348160-LlI4?utm_source=share&utm_medium=member_desktop
 API:https://sportsdata.io/
 
 
